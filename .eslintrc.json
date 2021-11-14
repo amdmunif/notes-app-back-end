@@ -12,6 +12,11 @@
     "rules": {
         "no-console": "off",
         "linebreak-style": "off",
-        "no-underscore-dangle": "off"
+        "no-underscore-dangle": "off",
+        "indent": "off",
+        "eol-last": "off",
+        "class-methods-use-this": "off",
+        "no-empty-function": "off",
+        "space-before-function-paren": "off"
     }
 }
