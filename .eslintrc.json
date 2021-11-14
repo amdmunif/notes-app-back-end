@@ -17,6 +17,7 @@
         "eol-last": "off",
         "class-methods-use-this": "off",
         "no-empty-function": "off",
-        "space-before-function-paren": "off"
+        "space-before-function-paren": "off",
+        "no-unused-vars": "off"
     }
 }
