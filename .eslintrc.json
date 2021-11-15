@@ -18,6 +18,9 @@
         "class-methods-use-this": "off",
         "no-empty-function": "off",
         "space-before-function-paren": "off",
-        "no-unused-vars": "off"
+        "no-unused-vars": "off",
+        "array-bracket-spacing": "off",
+        "comma-dangle": "off"
+
     }
 }

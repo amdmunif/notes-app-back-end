@@ -1,3 +1,5 @@
+/* eslint-disable array-bracket-spacing */
+/* eslint-disable comma-dangle */
 // mengimpor dotenv dan menjalankan konfigurasinya
 require('dotenv').config();
 
